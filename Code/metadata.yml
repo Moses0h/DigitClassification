@@ -1,0 +1,14 @@
+---
+:id: 52879639
+:submitters:
+- :name: Jun Hwee Oh
+  :email: j6oh@ucsd.edu
+- :name: Mitchell Zhang
+  :email: miz134@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-11-01 21:26:05.252020000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-11-01 13:26:05.252020000 Z
+:status: processed
+:score: 10.0

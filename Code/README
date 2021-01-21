@@ -1,0 +1,5 @@
+Prior to running the program, you must set up the configuration and data.
+Change config.yaml accordingly to your configurations
+Include X_train.npy, X_test.npy, y_train.npy, and y_test.npy for the x (input) train set and test set and for the y (label) train and test set respectively
+
+To run the program, run "python main.py"
